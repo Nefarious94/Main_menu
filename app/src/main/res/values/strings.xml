@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Been there, done that</string>
+    <string name="help">Help Screen</string>
+    <string name="menu">Main Menu Screen</string>
+    <string name="splash">Splash Screen</string>
+    <string name="settings">Settings Screen</string>
+    <string name="game">Game Screen</string>
+    <string name="scores">Scores Screen</string>
+    <string name="app_logo_top">app_logo_top</string>
+    <string name="app_logo_bottom">app_logo_bottom</string>
+    <string name="app_version_info">app_version_info</string>
+    <string name="imageview2_left">ImageView2_Left</string>
+    <string name="imageview2_right">ImageView2_Right</string>
+    <string name="imageview3_left">ImageView3_Left</string>
+    <string name="imageview3_right">ImageView3_Right</string>
+</resources>
