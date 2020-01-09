@@ -13,4 +13,14 @@
     <string name="imageview2_right">ImageView2_Right</string>
     <string name="imageview3_left">ImageView3_Left</string>
     <string name="imageview3_right">ImageView3_Right</string>
+    <string name="title_menu">Title_Menu</string>
+    <string name="imagemenu">imageMenu</string>
+    <string name="f1_logo">f1_logo</string>
+    <string name="moto_logo">moto_logo</string>
+    <string-array name="menu_array">
+        <item>Play Game</item>
+        <item>View Scores</item>
+        <item>Settings</item>
+        <item>Help</item>
+    </string-array>
 </resources>
